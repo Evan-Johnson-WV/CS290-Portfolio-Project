@@ -1,0 +1,13 @@
+How to run server
+
+Open terminal in the rest directory
+Run these commands:
+	npm install
+	npm start
+
+Open terminal in the react directory
+Run these commands:
+	npm install
+	npm run dev
+
+Everything should be good to run now

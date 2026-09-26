@@ -1,0 +1,58 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: #00FFFF;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #800080;
+  margin: 40px 20px 40px 20px;
+  padding: 20px 10px 20px 10px;
+}
+
+table {
+  border-style: solid;
+}
+
+td {
+  border-style: groove;
+  border-color: #1000FF;
+  padding: 5px 20px 5px 20px;
+}
+
+th {
+  border-style: solid;
+  border-color: #000080;
+  padding: 5px 20px 5px 20px;
+}
+
+input {
+  background-color: #00FAFA;
+  color: #101010;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+select {
+  background-color: #00FAFA;
+  border-width: 2px;
+  border-color: #101010;
+  color: #101010
+}
+
+button {
+  color: #101010;
+  background-color: #C0C0C0;
+  margin: 20px 0px 0px 0px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#editIcon {
+  font-size: larger;
+}
+
+#deleteIcon {
+  font-size: larger;
+}
